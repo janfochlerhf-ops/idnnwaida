@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "changelog": "- Přidána podpora automatických aktualizací přímo přes internet\n- Přidán pasivní Režim učení (záznamník lidského hraní pro analýzu hry)\n- Přidány souboje s policií a SWAT",
+  "files": {
+    "mafia_bot.py": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mafia_bot.py",
+    "gui_app.py": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/gui_app.py",
+    "updater.py": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/updater.py",
+    "learn_mode.py": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/learn_mode.py"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1572251022578159626/dk-s9v7TS5ggOD40IeuB0dl_sakdURec0EqP9568tXkfqa1IQDCoczdSxwhpfUwWd2xU",
+  "auto_survival": true,
+  "auto_duels": true,
+  "auto_police": true,
+  "quest_strategy": "max_xp",
+  "smart_skills": {
+    "enabled": true,
+    "mode": "smart_budget",
+    "min_cash_reserve": 2000,
+    "max_spend_percent": 25,
+    "max_points_per_cycle": 1
+  },
+  "version": "1.0.0",
+  "update_url": "",
+  "auto_update": true
+}
